@@ -14,11 +14,12 @@ estructura de carpetas y archivos donde se encuentra nuestro codigo.
 [Font google](https://fonts.google.com/?query=mon&selection.family=Montserrat)
 
 2. Realizamos el maquetado del html en `index.html` ,donde colocaremos los diferentes **section** que contendra  nuestra pagina.
- .#boot
- .#port
- .#about
- .#contac
- .#footer
+ .`boot`
+ .`port`
+ .`about`
+ .`contac`
+ .`footer`
+
 
 3.  En la section `contac` aplicamos los formularios y tendremos las etiquetas como:
  - `form`, `input`, `button`,`´textarea`
@@ -26,6 +27,8 @@ estructura de carpetas y archivos donde se encuentra nuestro codigo.
 4. luego añadimos los estilos al `main.css`,con los diferentes selectores de las clases,ID's.
 
 5. Utilizaremos dos tipos de letras ,montserrat y lato.
+
+6. Agregamos los iconos y los estilos a los iconos
 
 ## Objetivo
 
